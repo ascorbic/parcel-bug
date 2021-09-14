@@ -1,0 +1,17 @@
+{
+  "name": "parcel-bug",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.js",
+  "main": "lib/main.js",
+  "module": "lib/module.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "author": "Matt Kane <m@mk.gg>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "repository": "git@github.com:ascorbic/parcel-bug.git"
+}
